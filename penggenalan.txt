@@ -2,7 +2,8 @@ rencana content
 
 *hahah
 *haha
-^wakaka
+^ wakaka
+^ wakanda
 -a
 -b
 -c
