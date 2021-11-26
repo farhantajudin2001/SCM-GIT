@@ -2,6 +2,7 @@ rencana content
 
 *hahah
 *haha
+^wakaka
 -a
 -b
 -c
